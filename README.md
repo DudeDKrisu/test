@@ -1,2 +1,2 @@
-# test
-test repository
+# pyweb-bottle-heroku
+simple bottle heroku template

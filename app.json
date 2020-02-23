@@ -1,0 +1,13 @@
+{
+  "name": "Start on Heroku: Python",
+  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/shrimpsizemoose/pyweb-bottle-heroku",
+  "keywords": ["python", "bottle" ],
+  "env": {
+    "APP_LOCATION": {
+      "description": "Flag to tell the app we're running on cloud.",
+      "value": "heroku"
+    }
+  }
+}
